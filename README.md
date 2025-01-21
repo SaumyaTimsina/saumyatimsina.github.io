@@ -16,20 +16,20 @@
 - Partnered with the department supervisor to implement and maintain the GEMBA Board, effectively monitoring and enhancing production quality within the department.
 
 ## Projects 
-### Disaster Management Website at the TAMU Hachathon (Jan 2022)
+### Disaster Management Website at the TAMU Hackathon (Jan 2022)
 [Disaster Website Video](https://www.youtube.com/watch?v=k6JSfNluBvs)
 
 Developed a full-stack application in 24 hours during a hackathon to assist individuals during natural disasters. The application included a reliable database to store critical information for those seeking help and those offering assistance, ensuring efficient and effective data management.
 
 
 ### Quality Improvement Project for a Mousefactory (April 2024)
-[Mouse Factory Project Quality Improvement Report]
-[Mouse Factory Project Control Chart Report]
+[Mouse Factory Project Quality Improvement Report] (assets_or_img/Lab 6_MouseFactory1 (1).pdf)
+[Mouse Factory Project Control Chart Report] (assets_or_img/Lab 7 MouseFactory II (1).pdf)
 
 Conducted a root cause analysis on a month’s production data and developed a comprehensive quality improvement plan. Recommendations included upgrading injection molding tools and establishing a robust quality inspection process. Implemented a control chart to highlight the importance of statistical process control in maintaining and improving quality standards.
 
 ## Leadership Experience
-**Nepalease Student Association (2022-2024)**
+**Nepalese Student Association (2022-2024)**
 [Neplaease Studnet Association (NSA) website] (https://www.nsatamu.com/home) 
 - Vice President (2022-2024): Implemented a volunteer-based funding strategy at Kyle Field football games, successfully tripling the organization’s annual budget from $3,000 to $9,000. Led event planning subcommittees to organize cultural and social events, ensuring an exceptional experience for the Nepali community at Texas A&M University. Additionally, managed the design and ongoing updates of the organization’s website to maintain accurate and engaging content.
 
