@@ -3,7 +3,8 @@
 ### Skills: Python, Pandas, NumPy, SQL, SIMIO, Power Apps, Root-Cause Analysis, Project Management
 
 ## Education
-**Industrial and Systems Engineering | Texas A&M University, College Station, Texas (Expected Graduation Dec 2025)**
+**Industrial and Systems Engineering**
+**Texas A&M University, College Station, Texas (Expected Graduation Dec 2025)**
 
 ## Work Experience
 **Industrial Engineering Intern @ United Airlines (July 2024 to December 2024)**
