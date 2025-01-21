@@ -24,7 +24,7 @@
 Conducted a root cause analysis on a month’s production data and developed a comprehensive quality improvement plan. Recommendations included upgrading injection molding tools and establishing a robust quality inspection process. Implemented a control chart to highlight the importance of statistical process control in maintaining and improving quality standards.
 
 ### Disaster Management Website at the TAMU Hackathon (Jan 2022)
-[Disaster Website Video](https://www.youtube.com/watch?v=k6JSfNluBvs)
+[Website Video](https://www.youtube.com/watch?v=k6JSfNluBvs)
 
 Developed a full-stack application in 24 hours during a hackathon to assist individuals during natural disasters. The application included a reliable database to store critical information for those seeking help and those offering assistance, ensuring efficient and effective data management.
 
