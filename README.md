@@ -31,7 +31,7 @@ Conducted a root cause analysis on a month’s production data and developed a c
 ## Leadership Experience
 **Nepalese Student Association (2022-2024)**
 [Neplaease Studnet Association (NSA) website](https://www.nsatamu.com/home) 
-- Vice President (2022-2024): Implemented a volunteer-based funding strategy at Kyle Field football games, successfully tripling the organization’s annual budget from $3,000 to $9,000. Led event planning subcommittees to organize cultural and social events, ensuring an exceptional experience for the Nepali community at Texas A&M University. Additionally, managed the design and ongoing updates of the organization’s website to maintain accurate and engaging content.
+- **Vice President (2022-2024)**: Implemented a volunteer-based funding strategy at Kyle Field football games, successfully tripling the organization’s annual budget from $3,000 to $9,000. Led event planning subcommittees to organize cultural and social events, ensuring an exceptional experience for the Nepali community at Texas A&M University. Additionally, managed the design and ongoing updates of the organization’s website to maintain accurate and engaging content.
 
-- Event Coordinator (2022-2023): Organized Nepali cultural and social events to help international Nepali students build connections and foster a sense of community with fellow Nepali students in College Station.
+- **Event Coordinator (2022-2023)**: Organized Nepali cultural and social events to help international Nepali students build connections and foster a sense of community with fellow Nepali students in College Station.
   
