@@ -1,4 +1,4 @@
-# saumyatimsina.github.io
+# Saumya Timsina
 
 ### Skills: Python, Pandas, NumPy, SQL, SIMIO, Power Apps, Root-Cause Analysis, Project Management
 
