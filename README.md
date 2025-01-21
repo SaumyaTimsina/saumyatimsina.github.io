@@ -23,8 +23,8 @@ Developed a full-stack application in 24 hours during a hackathon to assist indi
 
 
 ### Quality Improvement Project for a Mousefactory (April 2024)
-[Mouse Factory Project Quality Improvement Report]((https://drive.google.com/file/d/1xF2T3QNcnjtlyo-q3pelnJid0CyD86X7/view?usp=drive_link))
-[Mouse Factory Project Control Chart Report](https://drive.google.com/file/d/1ciuNSbT3FYC5tdstV64XsbN4KOF2UgvJ/view?usp=drive_link)
+[Mouse Factory Project Quality Improvement Report](https://drive.google.com/file/d/1xF2T3QNcnjtlyo-q3pelnJid0CyD86X7/view?usp=sharing)
+[Mouse Factory Project Control Chart Report](https://drive.google.com/file/d/1ciuNSbT3FYC5tdstV64XsbN4KOF2UgvJ/view?usp=sharing)
 
 Conducted a root cause analysis on a month’s production data and developed a comprehensive quality improvement plan. Recommendations included upgrading injection molding tools and establishing a robust quality inspection process. Implemented a control chart to highlight the importance of statistical process control in maintaining and improving quality standards.
 
