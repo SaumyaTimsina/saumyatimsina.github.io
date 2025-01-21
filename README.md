@@ -16,18 +16,20 @@
 - Partnered with the department supervisor to implement and maintain the GEMBA Board, effectively monitoring and enhancing production quality within the department.
 
 ## Projects 
-### Disaster Management Website at the TAMU Hackathon (Jan 2022)
-[Disaster Website Video](https://www.youtube.com/watch?v=k6JSfNluBvs)
-
-Developed a full-stack application in 24 hours during a hackathon to assist individuals during natural disasters. The application included a reliable database to store critical information for those seeking help and those offering assistance, ensuring efficient and effective data management.
-
-
 ### Quality Improvement Project for a Mousefactory (April 2024)
 [Mouse Factory Project Quality Improvement Report](https://drive.google.com/file/d/1xF2T3QNcnjtlyo-q3pelnJid0CyD86X7/view?usp=sharing)
 
 [Mouse Factory Project Control Chart Report](https://drive.google.com/file/d/1ciuNSbT3FYC5tdstV64XsbN4KOF2UgvJ/view?usp=sharing)
 
 Conducted a root cause analysis on a month’s production data and developed a comprehensive quality improvement plan. Recommendations included upgrading injection molding tools and establishing a robust quality inspection process. Implemented a control chart to highlight the importance of statistical process control in maintaining and improving quality standards.
+
+### Disaster Management Website at the TAMU Hackathon (Jan 2022)
+[Disaster Website Video](https://www.youtube.com/watch?v=k6JSfNluBvs)
+
+Developed a full-stack application in 24 hours during a hackathon to assist individuals during natural disasters. The application included a reliable database to store critical information for those seeking help and those offering assistance, ensuring efficient and effective data management.
+
+
+
 
 ## Leadership Experience
 **Nepalese Student Association (2022-2024)**
