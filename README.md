@@ -24,13 +24,14 @@ Developed a full-stack application in 24 hours during a hackathon to assist indi
 
 ### Quality Improvement Project for a Mousefactory (April 2024)
 [Mouse Factory Project Quality Improvement Report](https://drive.google.com/file/d/1xF2T3QNcnjtlyo-q3pelnJid0CyD86X7/view?usp=sharing)
+
 [Mouse Factory Project Control Chart Report](https://drive.google.com/file/d/1ciuNSbT3FYC5tdstV64XsbN4KOF2UgvJ/view?usp=sharing)
 
 Conducted a root cause analysis on a month’s production data and developed a comprehensive quality improvement plan. Recommendations included upgrading injection molding tools and establishing a robust quality inspection process. Implemented a control chart to highlight the importance of statistical process control in maintaining and improving quality standards.
 
 ## Leadership Experience
 **Nepalese Student Association (2022-2024)**
-[Neplaease Studnet Association (NSA) website](https://www.nsatamu.com/home) 
+[Neplaease Student Association (NSA) website](https://www.nsatamu.com/home) 
 - **Vice President (2022-2024)**: Implemented a volunteer-based funding strategy at Kyle Field football games, successfully tripling the organization’s annual budget from $3,000 to $9,000. Led event planning subcommittees to organize cultural and social events, ensuring an exceptional experience for the Nepali community at Texas A&M University. Additionally, managed the design and ongoing updates of the organization’s website to maintain accurate and engaging content.
 
 - **Event Coordinator (2022-2023)**: Organized Nepali cultural and social events to help international Nepali students build connections and foster a sense of community with fellow Nepali students in College Station.
