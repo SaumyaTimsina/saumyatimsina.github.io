@@ -11,7 +11,7 @@
 - Conducted comprehensive data analysis to streamline the cleaning dispatcher operations and enhance real-time decision-making, driving improved efficiency at George Bush Intercontinental Airport (IAH) in Houston.
 - Performed in-depth diagnostic analysis on operational disruptions, pinpointing root causes contributing to departure delays at the Denver International Airport, and guided the airport operations team in implementing solutions to resolve cross-airport impact.
 
-**Supply Chain Intern @ Tractor Supply Company (June 2024 to August 2023)**
+**Supply Chain Intern @ Tractor Supply Company (June 2023 to August 2023)**
 - Collaborated closely with departmental supervisors and operations managers to gain comprehensive insights into the operations of a 650,000-square-foot Distribution Center while examining product flow and conducting product count verifications to ensure efficient operations.
 - Partnered with the department supervisor to implement and maintain the GEMBA Board, effectively monitoring and enhancing production quality within the department.
 
