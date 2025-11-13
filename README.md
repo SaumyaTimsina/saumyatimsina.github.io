@@ -6,6 +6,9 @@
 **Industrial and Systems Engineering | Texas A&M University, College Station, Texas (Expected Graduation Dec 2025)**
 
 ## Work Experience
+**Cargo Logistics Intern @ United Airlines (June 2025 to August 2025)**
+- Built and mantianed a Spotfire dashboard to monitor supply chain routing and financial KPIs, uncovering $1M in recoveralbe value and improving visibility into supply-demand gaps.
+- Analyzed cargo equipment rental trends to uncover inefficiencies, assess performance, and recommend cost-control improvements that strengthened reliability and overall operational efficiency. 
 **Industrial Engineering Intern @ United Airlines (July 2024 to December 2024)**
 - Developed advanced digital tools such as a Power App to collect and analyze over 1000 operational data points, uncovering actionable insights to drive potential improvements in cleanliness protocols at the San Francisco International Airport.
 - Conducted comprehensive data analysis to streamline the cleaning dispatcher operations and enhance real-time decision-making, driving improved efficiency at George Bush Intercontinental Airport (IAH) in Houston.
@@ -18,6 +21,11 @@
 ## Projects 
 ### Quality Improvement Project for a Mousefactory (April 2024)
 [Mouse Factory Project Quality Improvement Report](https://drive.google.com/file/d/1xF2T3QNcnjtlyo-q3pelnJid0CyD86X7/view?usp=sharing)
+
+<a href="https://drive.google.com/file/d/1xF2T3QNcnjtlyo-q3pelnJid0CyD86X7/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  Mouse Factory Project Quality Improvement Report
+</a>
+
 
 [Mouse Factory Project Control Chart Report](https://drive.google.com/file/d/1ciuNSbT3FYC5tdstV64XsbN4KOF2UgvJ/view?usp=sharing)
 
