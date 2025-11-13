@@ -45,11 +45,6 @@ Developed a full-stack application in 24 hours during a hackathon to assist indi
 
 
 ## Leadership Experience
-**Nepalese Student Association (2022-2024)**
-<a href="https://www.nsatamu.com/home" target="_blank" rel="noopener noreferrer">
-  Organization's Website
-</a>
-
 **Nepalese Student Association (2022–2024)**  
 <a href="https://www.nsatamu.com/home" target="_blank" rel="noopener noreferrer">Organization’s Website</a>
 
