@@ -25,9 +25,6 @@
   Mouse Factory Project Quality Improvement Report
 </a>
 
-
-[Mouse Factory Project Control Chart Report](https://drive.google.com/file/d/1ciuNSbT3FYC5tdstV64XsbN4KOF2UgvJ/view?usp=sharing)
-
 <a href="https://drive.google.com/file/d/1ciuNSbT3FYC5tdstV64XsbN4KOF2UgvJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   Mouse Factory Project Control Chart Report
 </a>
@@ -36,7 +33,6 @@
 Conducted a root cause analysis on a month’s production data and developed a comprehensive quality improvement plan. Recommendations included upgrading injection molding tools and establishing a robust quality inspection process. Implemented a control chart to highlight the importance of statistical process control in maintaining and improving quality standards.
 
 ### Disaster Management Website at the TAMU Hackathon (Jan 2022)
-[Website Video](https://www.youtube.com/watch?v=k6JSfNluBvs)
 
 <a href="https://www.youtube.com/watch?v=k6JSfNluBvs" target="_blank" rel="noopener noreferrer">
   Website Video
@@ -50,7 +46,6 @@ Developed a full-stack application in 24 hours during a hackathon to assist indi
 
 ## Leadership Experience
 **Nepalese Student Association (2022-2024)**
-[Neplaease Student Association (NSA) website](https://www.nsatamu.com/home) 
 <a href="https://www.nsatamu.com/home" target="_blank" rel="noopener noreferrer">
   Nepalease Student Association (NSA) website
 </a>
