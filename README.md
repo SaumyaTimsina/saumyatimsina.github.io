@@ -1,6 +1,6 @@
 # Saumya Timsina
 
-### Skills: Python, Pandas, NumPy, SQL, SIMIO, Power Apps, Root-Cause Analysis, Project Management
+### Skills: Python, Pandas, NumPy, SQL, SIMIO, Power Apps, Spotfire, Data Visualization, Time Studies, Process Mapping, Lean Principles, Statistical Analysis, Root-Cause Analysis, Project Management
 
 ## Education
 **Industrial and Systems Engineering | Texas A&M University, College Station, Texas (Expected Graduation Dec 2025)**
