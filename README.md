@@ -50,6 +50,10 @@ Developed a full-stack application in 24 hours during a hackathon to assist indi
   Organization's Website
 </a>
 
+**Nepalese Student Association (2022–2024)**  
+<a href="https://www.nsatamu.com/home" target="_blank" rel="noopener noreferrer">Organization’s Website</a>
+
+
 - **Vice President (2023-2024)**: Implemented a volunteer-based funding strategy at Kyle Field football games, successfully tripling the organization’s annual budget from $3,000 to $9,000. Led event planning subcommittees to organize cultural and social events, ensuring an exceptional experience for the Nepali community at Texas A&M University. Additionally, managed the design and ongoing updates of the organization’s website to maintain accurate and engaging information.
 
 - **Event Coordinator (2022-2023)**: Organized Nepali cultural and social events to help international Nepali students build connections and foster a sense of community with fellow Nepali students in College Station.
