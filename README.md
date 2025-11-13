@@ -1,3 +1,5 @@
+#
+
 ### Skills: Python, Pandas, NumPy, SQL, SIMIO, Power Apps, Spotfire, Data Visualization, Time Studies, Process Mapping, Lean Principles, Statistical Analysis, Root-Cause Analysis, Project Management
 
 ## Education
