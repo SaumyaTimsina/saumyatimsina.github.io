@@ -6,18 +6,25 @@
 **Industrial and Systems Engineering | Texas A&M University, College Station, Texas (Expected Graduation Dec 2025)**
 
 ## Work Experience
+**Operations Analyst @ Precision Castparts Corporation (Jan 2026 to August Present)**
+- Increased Makino MAG3 utilization by 15% by improving NPI throughput, optimizing weekend shift performance, and driving first-pass yield improvements through process standardization and operator alignment.
+- Developed and deployed a standardized operator-level preventative maintenance program, achieving 90% compliance and improving equipment reliability through KPI tracking, audits, and cross-shift accountability.
+- Led continuous improvement initiatives across multiple machining areas, identifying and implementing targeted improvements in each area to enhance workplace organization, reduce waste, and decrease cycle times by 20%.
+
+## Work Experience
 **Cargo Logistics Intern @ United Airlines (June 2025 to August 2025)**
-- Built and mantianed a Spotfire dashboard to monitor supply chain routing and financial KPIs, uncovering $1M in recoveralbe value and improving visibility into supply-demand gaps.
-- Analyzed cargo equipment rental trends to uncover inefficiencies, assess performance, and recommend cost-control improvements that strengthened reliability and overall operational efficiency. 
+- Built and maintained a Spotfire dashboard to monitor supply chain routing, shipment flow, and financial KPIs, uncovering $1M in recoverable value and improving visibility into supply-demand gaps.
+- Analyzed cargo equipment utilization and rental trends, identifying inefficiencies and recommending policy changes that reduced costs by $150K annually while improving asset availability.
+- Partnered with suppliers, carriers, and cross-functional teams to evaluate inventory usage and asset performance, delivering $60K in cost savings and improving logistics efficiency.
 
 **Industrial Engineering Intern @ United Airlines (July 2024 to December 2024)**
-- Developed advanced digital tools such as a Power App to collect and analyze over 1000 operational data points, uncovering actionable insights to drive potential improvements in cleanliness protocols at the San Francisco International Airport.
-- Conducted comprehensive data analysis to streamline the cleaning dispatcher operations and enhance real-time decision-making, driving improved efficiency at George Bush Intercontinental Airport (IAH) in Houston.
-- Performed in-depth diagnostic analysis on operational disruptions, pinpointing root causes contributing to departure delays at the Denver International Airport, and guided the airport operations team in implementing solutions to resolve cross-airport impact.
+- Developed a Power App to analyze over 1,000+ operational data points, improving the SFO Airport's cleaning standards, leading to business partner cost savings of approximately 350K annually.
+- Conducted comprehensive data analysis to streamline cleaning dispatcher operations and enhance real-time decision making at George Bush Intercontinental Airport (IAH), decreasing cleaning operations-related delays by 80%.
+- Performed in-depth analysis on operational disruptions at Denver International Airport, identifying root causes of departure delays and implementing solutions that improved on-time departures by 70%.
 
 **Supply Chain Intern @ Tractor Supply Company (June 2023 to August 2023)**
-- Collaborated closely with departmental supervisors and operations managers to gain comprehensive insights into the operations of a 650,000-square-foot Distribution Center while examining product flow and conducting product count verifications to ensure efficient operations.
-- Partnered with the department supervisor to implement and maintain the GEMBA Board, effectively monitoring and enhancing production quality within the department.
+- Collaborated closely with departmental supervisors and operations manager to gain insights into the operations of a 650,000 square-foot Distribution Center while examining the product flow and conducting product count verifications to ensure efficient operations.
+- Implemented GEMBA boards with leadership to track performance metrics, driving continuous improvement and enabling proactive management of labor capacity needs, improving operational efficiency by 12% from the previous quarter.
 
 ## Projects 
 ### Quality Improvement Project for a Mousefactory (April 2024)
