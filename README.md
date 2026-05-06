@@ -3,7 +3,7 @@
 ### Skills: Python, Pandas, NumPy, SQL, SIMIO, Power Apps, Spotfire, Power BI, Tableau, Alteryx, Data Visualization, Time Studies, Process Mapping, Lean Principles, Statistical Analysis, Root-Cause Analysis, Project Management
 
 ## Education
-**Industrial and Systems Engineering | Texas A&M University, College Station, Texas (Expected Graduation Dec 2025)**
+**Industrial and Systems Engineering | Texas A&M University, College Station, Texas**
 
 ## Work Experience
 **Operations Analyst @ Precision Castparts Corporation (Jan 2026 to August Present)**
