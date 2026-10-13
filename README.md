@@ -6,7 +6,7 @@
 **Industrial and Systems Engineering | Texas A&M University, College Station, Texas**
 
 ## Work Experience
-**Operations Analyst at Precision Castparts Corporation (April 2026 to Present)**
+**Manufacturing Supervisor at Precision Castparts Corporation (April 2026 to Present)**
 - Led a 20-person manufacturing team across four shifts, optimizing labor allocation and production priorities to drive a 15% increase in sales while maintaining quality and on-time delivery. 
 - Collaborated with a cross-functional team to analyze production bottlenecks and implement process improvements, reducing cycle time from 8 to 1.5 hours and increasing daily throughput from 3 to 16 parts.
 
