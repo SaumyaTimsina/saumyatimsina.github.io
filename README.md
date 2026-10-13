@@ -20,12 +20,12 @@
 - Analyzed cargo equipment utilization and rental trends to identify operational inefficiencies, recommending process improvements that reduced annual costs by $150K. 
 - Collaborated with suppliers, carriers, and cross-functional teams to evaluate inventory utilization and asset performance, delivering $60K in cost savings and improving operational efficiency.
 
-**Industrial Engineering Intern @ United Airlines (July 2024 to December 2024)**
+**Industrial Engineering Intern at United Airlines (July 2024 to December 2024)**
 - Developed a Power App to analyze over 1,000 operational data points and standardize airport cleaning processes, generating approximately $350K in annual cost savings. 
 - Analyzed airport operations and dispatcher workflows at George Bush Intercontinental Airport (IAH), identifying inefficiencies and implementing solutions that reduced cleaning-related delays by 80%. 
 - Conducted root-cause analysis of operational disruptions at Denver International Airport, optimizing staffing allocation and improving on-time departures by 70%.
 
-**Supply Chain Intern @ Tractor Supply Company (June 2023 to August 2023)**
+**Supply Chain Intern at Tractor Supply Company (June 2023 to August 2023)**
 - Analyzed inventory processes and product flows across a 650,000-square-foot distribution center, collaborating with operational leadership to identify inefficiencies and improve inventory accuracy and visibility. 
 - Implemented GEMBA performance boards with operational leadership to track KPIs, improve labor and capacity planning, and increase operational efficiency by 12%.
 
